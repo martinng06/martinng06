@@ -1,12 +1,12 @@
 ## Hi, I'm Martin!
-
-Mechanical Engineering Intern @ Lanteris Space Systems | May 2026 - Aug. 2026  
-Reserach Assistant @ NASA Jet Propulsion Labratory | Oct. 2024 - Jun. 2025  
+Thermal Engineering Intern @ SpaceX | May 2027 - Aug. 2027  
+Mechanical Engineering Intern @ Intuitive Machines | May 2026 - May 2027  
+Research Assistant @ NASA Jet Propulsion Laboratory | Oct. 2024 - Jun. 2025  
 B.S. Aerospace Engineering, Physics Minor at San Jose State University
 ##
 
-I'm currently working on my B.S. in Aerospace Engineering at SJSU and Physics Informed Surogate Models for Spacecraft Thermal Systems. 
-I'm interested in thermofluids, heat transfer, and propulsion.
+I'm currently working on my B.S. in Aerospace Engineering at SJSU and Physics Informed Surrogate Models for Spacecraft Thermal Systems. 
+I'm interested in thermal engineering, more specifically, thermal-structural & thermal-fluid interactions.
 
 
 
